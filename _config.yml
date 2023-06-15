@@ -84,9 +84,12 @@ author:
   avatar           : "UP-2019-0005.jpg"
   bio              : "Sociologist, Research and Data Scientist"
   location         : "Berlin & Mannheim, Germany"
-  employer         : >
-    Humboldt University of Berlin
-    & University of Mannheim"
+  employer         : |
+   <pre>
+   This is a text field
+   
+   It can span multiple lines
+   </pre>
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=yqeXVcAAAAAJ&hl=de&oi=ao"
   email            : "nader.hotait@hu-berlin.de"
