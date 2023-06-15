@@ -84,12 +84,7 @@ author:
   avatar           : "UP-2019-0005.jpg"
   bio              : "Sociologist, Research and Data Scientist"
   location         : "Berlin & Mannheim, Germany"
-  employer         : |
-   <pre>
-   This is a text field
-   
-   It can span multiple lines
-   </pre>
+  employer         : "    This is a text field\n    with an indent.\n\n    It can span multiple lines\n    while maintaining the indent."
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=yqeXVcAAAAAJ&hl=de&oi=ao"
   email            : "nader.hotait@hu-berlin.de"
