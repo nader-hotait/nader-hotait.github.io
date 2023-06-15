@@ -84,7 +84,7 @@ author:
   avatar           : "UP-2019-0005.jpg"
   bio              : "Sociologist, Research and Data Scientist"
   location         : "Berlin & Mannheim, Germany"
-  employer         : "This is a text field<br>&nbsp;&nbsp;&nbsp;&nbsp;with an indent.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;It can span multiple lines<br>&nbsp;&nbsp;&nbsp;&nbsp;while maintaining the indent."
+  employer         : "Humboldt University of Berlin<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;& University of Mannheim"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=yqeXVcAAAAAJ&hl=de&oi=ao"
   email            : "nader.hotait@hu-berlin.de"
