@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome! My name is Nader Hotait and am I research associate at the [https://www.bim.hu-berlin.de/de/bim][Berlin Institut for Integration and Migration Research(BIM)] studies at the Humboldt University of Berlin 👨‍💻.
+👋 Welcome! My name is Nader Hotait and am I research associate at the [Berlin Institut for Integration and Migration Research(BIM)](https://www.bim.hu-berlin.de/de/bim) studies at the Humboldt University of Berlin 👨‍💻.
