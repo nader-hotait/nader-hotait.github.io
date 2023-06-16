@@ -45,3 +45,6 @@ In addition to my research and academic pursuits, I actively engage in continuou
 For more detailed information about my experience and activities, feel free to download my [CV](/files/hotait_cv_0623.pdf).
 
 ## 📈 Freelance Services
+I offer freelance services in the field of data science, with a focus on ESG (Environmental, Social, and Governance) and DEI (Diversity, Equity, and Inclusion) indicators. I provide research expertise to companies seeking to measure and assess specific ESG/DEI metrics. I do so through various methods such as surveys, interviews, and more.
+
+Moreover, I specialize in constructing data dissemination tools through Shiny Apps and Markdown. These tools enable me to create interactive data explorers and reports, offering companies a user-friendly and engaging way to explore and understand their data. Should you be interested in my services, feel free to email me at my academic email addresses ([Berlin](mailto:nader.hotait@hu-berlin.de), [Mannheim](mailto:nhotait@mail.uni-mannheim.de)) or simply use my [private email](mailto:nader.htait@gmailcom).
