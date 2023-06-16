@@ -14,5 +14,13 @@ redirect_from:
 
 📚 Also, I am pursuing my Ph.D. in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/).<br>
 
-🔬My current research focuses on reconstructing the prevalence of radical material in the algorithmically curated feeds of social media users and exploring its possible effects on radicalization.<br>
+🔬My current research focuses on reconstructing the prevalence of radical material in the (algorithmically curated) feeds of social media users and exploring its possible effects on radicalization.<br>
 
+# Current Topics
+## Radicalization Potentials on TikTok
+
+## Other Topics
+
+## Freelance Services
+
+# My Blog and Talks
