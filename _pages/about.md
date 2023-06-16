@@ -28,7 +28,7 @@ The third stage of RaPoTik involves an experimental setting, where we deliberate
 
 <figure>
   <img src="/images/rapotik_research_pic.png" alt="Research design of RaPoTik and its stages" id="rapotik-image">
-  <figcaption>**Research design of RaPoTik and its stage**</figcaption>
+  <figcaption style="text-align: center; font-family: sans-serif; font-weight: bold;">Research design of RaPoTik and its stages</figcaption>
 </figure>
 
 ## 🔎 Other Topics
