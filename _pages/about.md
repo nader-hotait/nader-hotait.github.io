@@ -18,6 +18,15 @@ redirect_from:
 
 # 📓 Current Topics
 ## 📱 Radicalization Potentials on TikTok
+I am leading a research project called RaPoTik (Radicalization Potentials on TikTok), in collaboration with my colleague [Özgür Özvatan](https://twitter.com/OzgurOzvatan). This project is funded by the Berlin State Commission against Violence and aims to assess the thread of radicalization through TikTok consumption. TikTok has been under increasing scrutiny for disseminating extremist content, raising concerns about its impact on radicalization. Therefore, with RaPoTik, our primary objective is to investigate the prevalence of radical content among German Muslim TikTok users and evaluate the potential effects of this exposure on the process of radicalization.
+
+Our research project consists of three key stages (see Figure ). The first stage involves conducting qualitative inquiries with Muslim content creators on TikTok. This stage allows us to explore their ideological diversity, distinct narratives, and expressions. By understanding the online religious community's dynamics, we can contribute to the broader study of these communities and gather the necessary knowledge for the subsequent stages.
+
+In the second stage, we employ Natural Language Processing (NLP) techniques to analyze TikTok user data, specifically targeting radical content. Our goal is to quantify the prevalence of radical content among German Muslim TikTok users. By leveraging computational methods, we can gain insights into the nature and extent of radical content on the platform.
+
+The third stage of RaPoTik involves an experimental setting, where we deliberately expose participants to the identified radical content. By observing their responses and reactions, we aim to understand the potential impact and outcomes of exposure to such content. This stage allows us to examine the relationship between TikTok consumption, exposure to radical content, and potential radicalization tendencies.
+
+![alt text](Isolated.png "Title")
 
 ## 🔎 Other Topics
 
