@@ -34,5 +34,14 @@ The third stage of RaPoTik involves an experimental setting, where we deliberate
 </figure>
 
 ## 🔎 Other Topics
+I have extensive experience in quantitative and qualitative research endeavors alike and have managed different research projects throughout my career. My work spans various topics, including digitalization, social media studies, radicalization, cultural studies, religion, race and migration, political sociology, and social inequality and stratification.
+
+Right before RaPoTik, I was actively involved in the [D:Islam](https://www.d-islam.de/) project. Here, I held the responsibility for Module 1. In this role, I applied computational methods to access large data sources and analyzed them in terms of radical material. I also employed mixed-method approaches to gain further insights.
+
+Methodologically, I engage with computational methods, natural language processing, causal inference, and non-probability sampling. In my research, I employ diverse channels of data collection, including surveys, experiments, API access, and web scraping. When it comes to analysis, I'm rather eclectic. Although I am very fond of computational text analysis, my foundation lies in various regression and clustering techniques.
+
+In addition to my research and academic pursuits, I actively engage in continuous communication and collaboration with practitioners in the field of prevention work and social media representatives. This ongoing exchange enables me to stay informed about current challenges in these areas. Furthermore, through my academic work, I strive to actively contribute to the field of prevention, providing insights on how to address emerging digital platforms or model algorithms to enhance safety.
+
+For more detailed information about my experience and activities, feel free to download my [CV](/files/hotait_cv_0623.pdf).
 
 ## 📈 Freelance Services
