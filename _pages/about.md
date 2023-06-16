@@ -16,7 +16,7 @@ redirect_from:
 
 🔬My current research focuses on reconstructing the prevalence of radical material in the (algorithmically curated) feeds of social media users and exploring its possible effects on radicalization.<br>
 
-👨‍🏫 Check out my [talks](/_talks)) and [blogposts](/_posts) for updates and empirical insights to my work. The latter is where you can find my codes (sometimes).
+👨‍🏫 Check out my [talks](/_talks) and [blogposts](/_posts) for updates and empirical insights to my work. The latter is where you can find my codes (sometimes).
 
 # 📓 Current Topics
 ## 📱 Radicalization Potentials on TikTok (RaPoTik)
