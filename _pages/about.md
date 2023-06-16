@@ -16,8 +16,10 @@ redirect_from:
 
 🔬My current research focuses on reconstructing the prevalence of radical material in the (algorithmically curated) feeds of social media users and exploring its possible effects on radicalization.<br>
 
+👨‍🏫 Check out my [talks](/_talks)) and [blogposts](/_posts) for updates and empirical insights to my work. The latter is where you can find my codes (sometimes).
+
 # 📓 Current Topics
-## 📱 Radicalization Potentials on TikTok
+## 📱 Radicalization Potentials on TikTok (RaPoTik)
 I am leading a research project called RaPoTik (Radicalization Potentials on TikTok), in collaboration with my colleague [Özgür Özvatan](https://twitter.com/OzgurOzvatan). This project is funded by the [Berlin State Commission against Violence](https://www.berlin.de/lb/lkbgg/) and aims to assess the thread of radicalization through TikTok consumption. TikTok has been under increasing scrutiny for disseminating extremist content, raising concerns about its impact on radicalization. Therefore, with RaPoTik, our primary objective is to investigate the prevalence of radical content among German Muslim TikTok users and evaluate the potential effects of this exposure on the process of radicalization.
 
 Our research project consists of three key stages (see <a href="#rapotik-image">Figure below</a>). The first stage involves conducting a qualitative inquiry of Muslim content creators on TikTok. This stage allows us to explore their ideological diversity, distinct narratives, and linguistic expressions. Not only do we intend to contribute to the broader study of Muslim communities but also gather the necessary (prior) knowledge for the subsequent stages, as they are quantitative in nature.
@@ -34,5 +36,3 @@ The third stage of RaPoTik involves an experimental setting, where we deliberate
 ## 🔎 Other Topics
 
 ## 📈 Freelance Services
-
-# 👨‍🏫 My Blog and Talks
