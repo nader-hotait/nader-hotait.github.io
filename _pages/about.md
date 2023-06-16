@@ -26,7 +26,7 @@ In the second stage, we employ Natural Language Processing (NLP) techniques to a
 
 The third stage of RaPoTik involves an experimental setting, where we deliberately expose participants to the identified radical content through the TikTok interface for two weeks. By measuring their responses and reactions afterwards, we aim to understand the potential impact of exposure to such content. This stage allows us to examine the relationship between TikTok consumption, exposure to radical content, and potential radicalization tendencies.
 
-![Research design of RaPoTik and its stages](/files/rapotik_research_pic.pdf)
+![Research design of RaPoTik and its stages](/images/rapotik_research_pic.png)
 
 ## 🔎 Other Topics
 
