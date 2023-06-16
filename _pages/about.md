@@ -34,7 +34,7 @@ The third stage of RaPoTik involves an experimental setting, where we deliberate
 </figure>
 
 ## 🔎 Other Topics
-I have extensive experience in quantitative and qualitative research endeavors alike and managed different research projects throughout my career. My work spans various topics, including **digitalization, social media studies, radicalization, cultural studies, religion, race and migration, political sociology, and social inequality and stratification**.
+I have experience in quantitative and qualitative research endeavors alike and managed different research projects throughout my career. My work spans various topics, including **digitalization, social media studies, radicalization, cultural studies, religion, race and migration, political sociology, and social inequality and stratification**.
 
 Right before RaPoTik, I was actively involved in the [D:Islam](https://www.d-islam.de/) project. Here, I held the responsibility for Module 1. In this role, I applied computational methods to access large data sources and analyzed them in terms of radical material. I also employed mixed-method approaches to gain further insights.
 
