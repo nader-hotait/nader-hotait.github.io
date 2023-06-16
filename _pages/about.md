@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👨🏻‍💻 What am I on about?"
+title: "🗣 What am I on about?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
