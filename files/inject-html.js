@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', function() {
   var container = document.getElementById('rmarkdown-content');
-  var htmlFileURL = '2022-04-13-blog-post-1.html';
+  var htmlFileURL = '/files/2022-04-13-blog-post-1.html';
 
   fetch(htmlFileURL)
     .then(function(response) {
