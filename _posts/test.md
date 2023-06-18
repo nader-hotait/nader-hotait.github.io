@@ -1,7 +1,4 @@
 ---
-format: html
-editor: visual
-keep-md: true
 title: 'Muslim Interaktiv. Or: How to Leverage TikTok for Political Influence'
 date: 2022-06-05
 permalink: /posts/test/
