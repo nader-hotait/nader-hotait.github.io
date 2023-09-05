@@ -10,9 +10,9 @@ redirect_from:
 
 👋 Welcome! My name is Nader Hotait.<br>
 
-👨‍💻 I am research associate at the [Berlin Institut for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at the **Humboldt University of Berlin**.<br>
+👨‍💻 I am research associate at the [Berlin Institut for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at the Humboldt University of Berlin.<br>
 
-📚 Also, I am a Ph.D. candidate in Sociology at the **University of Mannheim's** [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) and visiting researcher at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the **London School of Econonomics and Political Science**.<br>
+📚 Also, I am a Ph.D. candidate in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) and visiting researcher at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Econonomics and Political Science.<br>
 
 🔬My current research focuses on reconstructing the prevalence of radical material in the (algorithmically curated) feeds of social media users and exploring its possible effects on radicalization.<br>
 
