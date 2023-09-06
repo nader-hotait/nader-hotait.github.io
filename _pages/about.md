@@ -42,7 +42,7 @@ Methodologically, I engage with computational methods, natural language processi
 
 In addition to my research and academic pursuits, I actively engage in continuous communication and collaboration with practitioners in the field of prevention work and social media representatives. This ongoing exchange enables me to stay informed about current challenges in these areas. Furthermore, through my academic work, I strive to actively contribute to the field of prevention, providing insights on how to address emerging digital platforms or model algorithms to enhance safety.
 
-For more detailed information about my experience and activities, feel free to download my [CV](/files/hotait_cv_0623.pdf).
+For more detailed information about my experience and activities, feel free to download my [CV](/files/hotait_cv_0509.pdf).
 
 ## 📈 Freelance Services
 I offer freelance services in the field of data science, with a focus on ESG (Environmental, Social, and Governance) and DEI (Diversity, Equity, and Inclusion) indicators. I provide research expertise to companies seeking to measure and assess specific ESG/DEI metrics. I do so through various methods such as surveys, interviews, and more. As an empirical social scientist, I leverage a strong theoretical foundation and utilize up-to-date operationalizations from the domain of (critical) social studies. This unique approach empowers me to deliver a substantial understanding of social data, transcending the boundaries of pure statistics or computer science.
