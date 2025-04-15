@@ -12,7 +12,7 @@ redirect_from:
 
 👨‍💻 I am a Postdoc at the [Berlin Institut for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at the Humboldt University of Berlin and [German Center for Integration and Migration Research (DeZIM)](https://www.dezim-institut.de).<br>
 
-📚 Also, I recently finished my PhD in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) and visiting researcher at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Econonomics and Political Science.<br>
+📚 Also, I recently finished my PhD in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), including a visiting research studentship at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Econonomics and Political Science.<br>
 
 🔬 My current research encompasses two primary areas. First, I focus on (radical) material in algorithmically curated social media feeds and its effects on values and opinions. Second, I investigate Muslim and Migrant communities online, assessing their impact on real-life politics, alongside founding and directing the [Digital Muslim Studies Lab (DMS)](https://digitalmuslimstudies.com/).
 
