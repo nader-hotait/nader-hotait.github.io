@@ -10,11 +10,11 @@ redirect_from:
 
 👋 Welcome! My name is Nader Hotait.<br>
 
-👨‍💻 I am research associate at the [Berlin Institut for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at the Humboldt University of Berlin and Lead Data Scientist at [Transformakes](https://www.transformakers.de/).<br>
+👨‍💻 I am Postdoc at the [Berlin Institut for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at the Humboldt University of Berlin and [German Center for Integration and Migration Research DeZIM e.V ](https://www.dezim-institut.de).<br>
 
-📚 Also, I am a Ph.D. candidate in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) and visiting researcher at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Econonomics and Political Science.<br>
+📚 Also, I recently finished my PhD in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) and visiting researcher at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Econonomics and Political Science.<br>
 
-🔬 My current research encompasses two primary areas. First, I focus on radical material in algorithmically curated social media feeds and its effects on radicalization. Second, I investigate Muslim and Migrant communities online, assessing their impact on real-life politics, alongside founding and directing the [Digital Muslim Studies Lab (DMS)](https://digitalmuslimstudies.com/).
+🔬 My current research encompasses two primary areas. First, I focus on (radical) material in algorithmically curated social media feeds and its effects on values and opinions. Second, I investigate Muslim and Migrant communities online, assessing their impact on real-life politics, alongside founding and directing the [Digital Muslim Studies Lab (DMS)](https://digitalmuslimstudies.com/).
 
 👨‍🏫 Check out my [talks](/talks) and [blogposts](/year-archive) for updates and empirical insights to my work. The latter is where you can find my codes (sometimes).
 
@@ -47,4 +47,4 @@ For more detailed information about my experience and activities, feel free to d
 ## 📈 Freelance Services
 I offer freelance services in the field of data science, with a focus on ESG (Environmental, Social, and Governance) and DEI (Diversity, Equity, and Inclusion) indicators. I provide research expertise to companies seeking to measure and assess specific ESG/DEI metrics. I do so through various methods such as surveys, interviews, and more. As an empirical social scientist, I leverage a strong theoretical foundation and utilize up-to-date operationalizations from the domain of (critical) social studies. This unique approach empowers me to deliver a substantial understanding of social data, transcending the boundaries of pure statistics or computer science.
 
-Moreover, I specialize in constructing data dissemination tools through Shiny Apps and Markdown. These tools enable me to create interactive data explorers and reports, offering companies a user-friendly and engaging way to explore and understand their data. Should you be interested in my services, feel free to email me at my academic email addresses ([Berlin](mailto:nader.hotait@hu-berlin.de), [Mannheim](mailto:nhotait@mail.uni-mannheim.de)) or simply use my [private email](mailto:nader.htait@gmail.com).
+Moreover, I specialize in constructing data dissemination tools through Shiny Apps and Markdown. These tools enable me to create interactive data explorers and reports, offering companies a user-friendly and engaging way to explore and understand their data. Should you be interested in my services, feel free to email me at my academic email addresses ([BIM](mailto:nader.hotait@hu-berlin.de), [DeIM](mailto:hotait@dezim-institut.de)) or simply use my [private email](mailto:nader.htait@gmail.com).
