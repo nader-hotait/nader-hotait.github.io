@@ -10,7 +10,7 @@ redirect_from:
 
 👋 Welcome! My name is Nader Hotait.<br>
 
-👨‍💻 I am Postdoc at the [Berlin Institut for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at the Humboldt University of Berlin and [German Center for Integration and Migration Research DeZIM e.V ](https://www.dezim-institut.de).<br>
+👨‍💻 I am Postdoc at the [Berlin Institut for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at the Humboldt University of Berlin and [German Center for Integration and Migration Research (DeZIM)](https://www.dezim-institut.de).<br>
 
 📚 Also, I recently finished my PhD in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) and visiting researcher at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Econonomics and Political Science.<br>
 
