@@ -14,7 +14,7 @@ redirect_from:
 
 📚 Also, I recently finished my PhD in Sociology at the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/), including a visiting research studentship at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Econonomics and Political Science.<br>
 
-🔬 My current research encompasses two primary areas. First, I focus on (radical) material in algorithmically curated social media feeds and its effects on values and opinions. Second, I investigate Muslim and Migrant communities online, assessing their impact on real-life politics, alongside founding and directing the [Digital Muslim Studies Lab (DMS)](https://digitalmuslimstudies.com/).
+🔬 My current research encompasses two primary areas. First, I focus on (radical) material in algorithmically curated social media feeds and its effects on values and opinions. Second, the role social media plays in fostering representation for marginalized communities—particularly Muslims in the West—while also serving as a vehicle for radicalization, discrimination, and a venue for hate speech.<br>
 
 👨‍🏫 Check out my [talks](/talks) and [blogposts](/year-archive) for updates and empirical insights to my work. The latter is where you can find my codes (sometimes).
 
