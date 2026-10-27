@@ -10,7 +10,7 @@ redirect_from:
 
 👋 Welcome! My name is Nader Hotait.<br>
 
-👨‍💻 I am a sociologist and postdoctoral researcher at the [Berlin Institute for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at Humboldt University of Berlin and at the [German Center for Integration and Migration Research (DeZIM)](https://www.dezim-institut.de). At DeZIM, I work in the Consensus and Conflict department and in the National Discrimination and Racism Monitor (NaDiRa). At Humboldt University, I founded and direct the [Digital Muslim Studies Lab](https://digitalmuslimstudies.com/).<br>
+👨‍💻 I am a sociologist and postdoctoral researcher at the [German Center for Integration and Migration Research (DeZIM)](https://www.dezim-institut.de) and at the [Berlin Institute for Integration and Migration Research (BIM)](https://www.bim.hu-berlin.de/de/bim) at Humboldt University of Berlin. At DeZIM, I work in the Consensus and Conflict department and in the National Discrimination and Racism Monitor (NaDiRa). At Humboldt University, I founded and direct the Digital Muslim Studies Lab.<br>
 
 📚 I received my PhD in Sociology and Data Science from the University of Mannheim's [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) in 2025, including a visiting research studentship at the [Data Science Institute](https://www.lse.ac.uk/DSI) of the London School of Economics and Political Science. My dissertation on Muslim TikTok in Germany was nominated for the German Thesis Award 2026 (Deutscher Studienpreis) of the Körber Foundation. In 2026, I was an Internet and Society Fellow at the [Alexander von Humboldt Institute for Internet and Society (HIIG)](https://www.hiig.de) in the focus area "Democratic Change and Knowledge".<br>
 
@@ -26,14 +26,9 @@ Together with colleagues at Princeton University, I lead MEDIVA, a project funde
 ## 📱 Radicalization Potentials on TikTok (RaPoTik)
 RaPoTik, which I led together with my colleagues [Özgür Özvatan](https://twitter.com/OzgurOzvatan) and [Rami Ali](https://twitter.com/DerRami_), was funded by the [Berlin State Commission against Violence](https://www.berlin.de/lb/lkbgg/). It asked how common radical content is among German Muslim TikTok users and what exposure to it does.
 
-The project had three stages (see <a href="#rapotik-image">Figure below</a>). A qualitative study of Muslim content creators mapped their ideological diversity, narratives, and language. Building on this, we used Natural Language Processing to measure the prevalence of radical content in TikTok user data. Finally, we ran Germany's first digital field experiment on TikTok, in which participants were exposed to the identified content through the TikTok interface for two weeks before we measured their attitudes.
+The project had three stages. A qualitative study of Muslim content creators mapped their ideological diversity, narratives, and language. Building on this, we used Natural Language Processing to measure the prevalence of radical content in TikTok user data. Finally, we ran Germany's first digital field experiment on TikTok, in which participants were exposed to the identified content through the TikTok interface for two weeks before we measured their attitudes.
 
 The findings are published in a [BIM Research Report](https://doi.org/10.18452/37785) and in a chapter of [The Routledge International Handbook on Social Exclusion and Radicalisation](https://doi.org/10.4324/9781003488521).
-
-<figure>
-  <img src="/images/rapotik_research_pic.png" alt="Research design of RaPoTik and its stages" id="rapotik-image">
-  <figcaption style="text-align: center; font-family: sans-serif; font-weight: bold;">Research design of RaPoTik and its stages</figcaption>
-</figure>
 
 ## 🔎 Earlier Work
 Before RaPoTik, I was responsible for Module 1 of the BMBF-funded [D:Islam](https://www.d-islam.de/) project, where I used computational methods to collect and analyze large amounts of online data for radical material. At DeZIM, I have worked on responses to racial discrimination and, more recently, on how German media cover racism and racially motivated violence.
@@ -47,7 +42,7 @@ Before RaPoTik, I was responsible for Module 1 of the BMBF-funded [D:Islam](http
 The full list is in my [CV](/files/nh_cv_clean.pdf).
 
 # 🧰 Methods
-I work with computational methods, natural language processing, causal inference, and non-probability designs, and collect data through surveys, experiments, data donations, APIs, and web scraping. My analyses range from regression and clustering to automated text analysis and the use of LLMs for classifying large corpora.
+I work with digital experiments, computational methods, natural language processing, causal inference, and non-probability designs, and collect data through surveys, data donations, APIs, and web scraping. My analyses range from regression and clustering to automated text analysis and the use of LLMs for classifying large corpora.
 
 Research on radicalization has also shown me the limits of these tools. Automated detection is often trusted too readily, and inferences get drawn where context matters most. Meaning, ambiguity, and irony in extremist or religious content often only become visible through close engagement with the actors and material. For this reason, qualitative inquiry remains a fixed part of my research designs.
 
